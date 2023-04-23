@@ -1,0 +1,1 @@
+LogRequest{applicationId='RabbitMQ', traceId='RabbitMQTr_c3689521-18bd-4515-8bcc-369328090bf7', componentName='RabbitMQ', requestId='1133789245', severity='3', timestamp=Sun Apr 23 23:21:12 CEST 2023, message='Sending to RabbitMQ'}
